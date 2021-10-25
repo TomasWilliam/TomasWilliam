@@ -28,17 +28,3 @@ composer create-project anchorcms/anchor-cms anchor
 6. Navigate your browser to your Anchor installation URL, if you have placed Anchor in a sub directory make sure you append the folder name to the URL: `http://MYDOMAINNAME.com/anchor`
 7. Follow the installer instructions.
 8. For security purposes, delete the `install` directory when you are done.
-
-## Problems?
-
-If you can't install Anchor, check the [forums](http://forums.anchorcms.com/); there's probably someone there who's had the same problem as you, and the community is always happy to help. Additionally, check out the [documentation](http://anchorcms.com/docs).
-
-## Contributing
-
-If you'd like to help out and contribute to this project, please take a look at the [contributing guidelines](https://github.com/anchorcms/anchor-cms/blob/master/.github/CONTRIBUTING.md). All information you need to get started should be included in there. If you have any questions then create an issue, make a forum post or message us directly.
-
-## Feature Requests:
-
-If you would like to add submit a feature request then please go to our [Feathub page](http://feathub.com/anchorcms/anchor-cms).
-
-[![Feature Requests](http://feathub.com/anchorcms/anchor-cms?format=svg)](http://feathub.com/anchorcms/anchor-cms)
