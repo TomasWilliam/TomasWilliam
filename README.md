@@ -1,4 +1,4 @@
-+![Anchor Header Image](.github/anchor-bg.jpeg)
+![Anchor Header Image](.github/anchor-bg.jpeg)
 
 # Anchor CMS
 
