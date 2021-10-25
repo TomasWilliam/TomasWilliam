@@ -1,4 +1,6 @@
-Hi there 👋, I am a full stack web and blockchain developer Rich experience in Web | Blockchain
+Hello! Last 2 years, I develop supercell's game in cocos2dx so I experience about PC game development. 
+so I think I related with your project. you can see it.
+And also 👋, I am a full stack web and blockchain developer Rich experience in Web | Blockchain
 🔭 I will try to be a rainbow in other's cloud, doing my best.
 🌱 Passionate about development and coding.
 👯 As the ideal candidate, I am highly motivated and focused on writing concise, replicable, readable and reusable code.
