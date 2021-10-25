@@ -18,7 +18,7 @@ To determine your PHP version, create a new file with this PHP code: `<?php echo
 ## Installation
 
 1. Ensure that you have the required components.
-2. Download Anchor either from [here](http://anchorcms.com/download), by cloning this Github repo or by running:
+2. Cloning this Github repo or by running:
 ```
 composer create-project anchorcms/anchor-cms anchor
 ```
